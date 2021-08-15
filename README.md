@@ -1,5 +1,8 @@
-### Hey there 👋, Nice to e-meet you.<br>
-If you have stumbled to reach here, I am taking the opportunity to consider that you want to know more about me.
+### Hey there 👋
+### 😄Nice to e-meet you.<br>
+
+#### If you have stumbled to reach here, I am taking the opportunity to consider that you want to know more about me.<br>
+#### I'm Arpit Kumar and I'm a Data Science and Machine Learning Practitioner. I enjoy working with datas and believe how even the bare raw form of data can lead to actionable and business driven insights. Having a Nick to learn each day, I have successfully completed my PGPDM Certificate in Data Science and Machine Learning from Universit of Chicago & Jigsaw Academy. I possess good knowledge on Python, MySQL and also work on Tableau and Microsoft Excel to create the dashboards.
 
 <!--
 **Arpitkr95/Arpitkr95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
