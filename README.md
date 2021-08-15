@@ -1,8 +1,9 @@
 ### Hey there 👋, 😄Nice to e-meet you.<br>
 **If you have stumbled to reach here, I am taking the opportunity to consider that you want to know more about me.**<br>
 
-I'm Arpit Kumar😄 and I'm a **Data Science and Machine Learning Practitioner**. Having a Nick to learn each day, I have successfully completed my PGPDM Certificate in Data Science and Machine Learning from University of Chicago & Jigsaw Academy.Along with motivated and team-oriented Data enthusiast I also have good knowledge in **Python, MySQL and have also worked on Tableau and Microsoft Excel** to create the dashboards.<br>
+I'm Arpit Kumar😄 and I'm a **Data Science and Machine Learning Practitioner**. Having a Nick to learn each day, I am a motivated and team-oriented Data enthusiast. Some technologies I enjoy working with include Python, MySQL and have also worked on Tableau and Microsoft Excel to create the dashboards.<br>
 I enjoy working with data and believe how even the bare raw form of data can lead to actionable and business driven insights.<br>
+Find me around the web earth_americas:
 
 <!--
 **Arpitkr95/Arpitkr95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
