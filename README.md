@@ -12,7 +12,6 @@ Skills: Python, HTML, CSS, Tableau, Microsoft Excel, MySQL
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arpitkr95&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arpitkr95&layout=compact&theme=radical)](https://github.com/Arpitkr95/github-readme-stats)
-
 <!--
 **Arpitkr95/Arpitkr95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
