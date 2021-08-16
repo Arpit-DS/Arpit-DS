@@ -1,4 +1,4 @@
-![Data Science & Machine Learning Practitioner](https://thumbs.dreamstime.com/z/banner-data-science-concept-icons-uses-scientific-methods-processes-algorithms-systems-to-extract-knowledge-insights-119035644.jpg)
+![Data Science & Machine Learning Practitioner](https://drive.google.com/drive/u/0/my-drive)
 
 ### Hey there 👋, 😄Nice to e-meet you.<br>
 **If you have stumbled to reach here, I am taking the opportunity to consider that you want to know more about me.**<br>
