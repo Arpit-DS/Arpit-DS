@@ -16,6 +16,12 @@ Skills:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arpitkr95&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arpitkr95&layout=compact&theme=radical)](https://github.com/Arpitkr95/github-readme-stats)
+
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Arpitkr95)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/arpitkumar2505/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/arpit.kumar.57)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/arpit_kr_25/)  
+
+![Profile views](https://gpvc.arturio.dev/Arpitkr95)  
 <!--
 **Arpitkr95/Arpitkr95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
