@@ -6,7 +6,7 @@
 My name is **Arpit Kumar😄** and I'm a **Data Science and Machine Learning Practitioner**. Having a Nick to learn each day, I am a motivated and team-oriented Data enthusiast. Some technologies I enjoy working with include **Python**, **MySQL** and have also worked on **Tableau** and **Microsoft Excel** creating dashboards to track KPI's and make business decisions.I enjoy working with data and believe how even the bare raw form of data can lead to actionable and business driven insights.<br><br>
 🔭 I’m currently learning and preparing for AWS Cloud Practitioner certificate exam along with NLP.<br>
 👯 I’m looking to collaborate with Data Scientists, Analysts.<br><br>
-Skills: 
+**Skills:** 
 * :snake: Python
 * :chart: Tableau, Microsoft Excel
 * MySQL
@@ -16,7 +16,7 @@ Skills:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arpitkr95&layout=compact&theme=buefy )](https://github.com/Arpitkr95/github-readme-stats)
 
 ### Connect with me:
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Arpitkr95)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/arpitkumar2505/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/arpit.kumar.57)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/arpit_kr_25/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/Arpitkr95)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/arpitkumar2505/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='30'>](https://www.facebook.com/arpit.kumar.57)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='30'>](https://www.instagram.com/arpit_kr_25/)  
 
 ![Profile views](https://gpvc.arturio.dev/Arpitkr95)  
 <!--
