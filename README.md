@@ -1,4 +1,4 @@
-![Data Science & Machine Learning Practitioner](C:\Users\ARPIT\Videos\Flood\banner.jpg)
+![Data Science & Machine Learning Practitioner](https://lh3.googleusercontent.com/BPefnBtfZAAPw6d3aT5lxLB-FpFL1kdcJuAlHvUn8Y5n9HXRb-FfnJEnoIXFPFTyDPY0_k3MmUYlCSQDO7UZnMN794xC4h4k0H0oLvDgzE6ssxS_TuZkCDtPC2lXGnKPiLh2JLDIZqM3pEiec2JBkrXwLkAiiTjdHTYVS9taEowKwmO9C0fspV4uts9X9s2h-HpodOpy2wuVd_UBueW6Cmm1164hAeZy9dwR8GIhzzRDzKDq-b7pRSvhJWkN23GUl9k5mho9HskdW-AOzl1uuMhQy3l0bKe9JuQYsIGMG0YlJFaVgBgt2-JD4F5AFUt_VO-7q7MQFcUX0zLoumi2XRxkej5qa1OWorq3RK-UzeZkyYzwgw88k7gf5RLe-ihaXTUOruFp3rsftvd6-GkTbW5nHD6kHTxWHNFiW2gAjOVi_V55GdVdRWEYda2H5Bl3S7mCRzFoHP02SVUoqjEFF33ozeic5pFjx1RJSlrDaH2_u-KWUBx3LK7mzv0Vv5ppr_CdpTYhSl6r4QjU-1EXORQzKQxnQNoED3ptX94ozixFfv2zQKrAAa4osnC1StjB74aFSjXfSXRcUb8rs5kKlWuwwzB9VTtwPRAoT8dLbNXnAZ9RxcB4QITU_kUtBt-Itqw3L_3K_TM0zwbPsrJfD8PT6X9-av6DuI-mF4zI6HD9HzIthhkaOxN0EJwyr9WSso0DfK7QSWoN-TiPzN5ze2M-=w291-h320-no?authuser=0)
 
 ### Hey there 👋, 😄Nice to e-meet you.<br>
 **If you have stumbled to reach here, I am taking the opportunity to consider that you want to know more about me.**<br>
