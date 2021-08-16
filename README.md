@@ -12,7 +12,7 @@ My name is **Arpit Kumar😄** and I'm a **Data Science and Machine Learning Pra
 * MySQL
 * :computer: HTML, CSS 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arpitkr95&show_icons=true&theme=buefy )\t\t\t\t\t\t
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arpitkr95&show_icons=true&theme=buefy )          
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arpitkr95&layout=compact&theme=buefy )](https://github.com/Arpitkr95/github-readme-stats)
 
 ### Connect with me:
