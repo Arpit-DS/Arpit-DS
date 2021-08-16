@@ -7,7 +7,9 @@ My name is **Arpit Kumar😄** and I'm a **Data Science and Machine Learning Pra
 I enjoy working with data and believe how even the bare raw form of data can lead to actionable and business driven insights.<br>
 🔭 I’m currently learning and preparing for AWS Cloud Practitioner certificate exam along with NLP.
 
-Skills: Python, HTML, CSS, Tableau, Microsoft Excel, MySQL
+Skills: 
+* :snake: Python
+, HTML, CSS, Tableau, Microsoft Excel, MySQL
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arpitkr95&show_icons=true&theme=radical)
 
