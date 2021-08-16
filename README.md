@@ -1,4 +1,4 @@
-![Data Science & Machine Learning Practitioner](https://photos.google.com/photo/AF1QipOIiLYQjpzqNElf0So2TE34Qi-CQrwat_my61Sj)
+![Data Science & Machine Learning Practitioner](C:\Users\ARPIT\Videos\Flood\banner.jpg)
 
 ### Hey there 👋, 😄Nice to e-meet you.<br>
 **If you have stumbled to reach here, I am taking the opportunity to consider that you want to know more about me.**<br>
