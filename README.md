@@ -7,7 +7,7 @@ My name is **Arpit Kumar😄** and I'm a **Data Science and Machine Learning Pra
 I enjoy working with data and believe how even the bare raw form of data can lead to actionable and business driven insights.<br>
 🔭 I’m currently learning and preparing for AWS Cloud Practitioner certificate exam along with NLP.<br>
 👯 I’m looking to collaborate with Data Scientists, Analysts
-
+<br>
 Skills: 
 * :snake: Python
 * :chart: Tableau, Microsoft Excel
