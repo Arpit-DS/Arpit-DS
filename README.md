@@ -1,4 +1,4 @@
-![Data Science & Machine Learning Practitioner](https://drive.google.com/drive/u/0/my-drive)
+![Data Science & Machine Learning Practitioner](https://photos.google.com/photo/AF1QipOIiLYQjpzqNElf0So2TE34Qi-CQrwat_my61Sj)
 
 ### Hey there 👋, 😄Nice to e-meet you.<br>
 **If you have stumbled to reach here, I am taking the opportunity to consider that you want to know more about me.**<br>
