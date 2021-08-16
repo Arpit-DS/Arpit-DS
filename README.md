@@ -9,7 +9,9 @@ I enjoy working with data and believe how even the bare raw form of data can lea
 
 Skills: 
 * :snake: Python
-, HTML, CSS, Tableau, Microsoft Excel, MySQL
+* :chart: Tableau, Microsoft Excel
+* MySQL
+* :computer: HTML, CSS 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arpitkr95&show_icons=true&theme=radical)
 
