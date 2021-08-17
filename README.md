@@ -24,7 +24,7 @@ My name is **Arpit Kumar😄** and I'm a **Data Science and Machine Learning Pra
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white}" /><br>
 **Database**<br>
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white}" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white}" /><br><br>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white}" /><br>
 **Frameworks**<br>
 <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white}" />
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white}" />
