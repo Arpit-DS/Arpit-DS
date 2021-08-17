@@ -13,7 +13,6 @@ My name is **Arpit Kumar😄** and I'm a **Data Science and Machine Learning Pra
 <p align='center'>
   Workspace Spec<br>
   <img src="https://img.shields.io/badge/Intel-Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white}" />
-  <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/nvidia-gtx%201650-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
 </p>
@@ -27,24 +26,31 @@ My name is **Arpit Kumar😄** and I'm a **Data Science and Machine Learning Pra
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white}" />
   <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white}" />
 </p>
-**IDE's**<br>
-<img src="https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon}" />
-<img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252}" />
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white}" /><br>
-**Database**<br>
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white}" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white}" /><br>
-**Frameworks**<br>
-<img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white}" />
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white}" />
-<img src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white}" /><br>
-**Office**<br>
-<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white}" />
-<img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white}" />
-<img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white}" />
-<img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white}" />
-<img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white}" /><br>
-
+<p align='center'>
+  IDE's<br>
+  <img src="https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon}" />
+  <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252}" />
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white}" />
+ </p>
+<p align='center'>
+  Database<br>
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white}" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white}" />
+ </p>
+<p align='center'>
+  Frameworks<br>
+  <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white}" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white}" />
+  <img src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white}" />
+ </p>
+<p align='center'>
+  Office**<br>
+ <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white}" />
+ <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white}" />
+ <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white}" />
+ <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white}" />
+ <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white}" /><br>
+</p><br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arpitkr95&show_icons=true&theme=buefy )   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arpitkr95&layout=compact&theme=buefy )](https://github.com/Arpitkr95/github-readme-stats)
 
 ### Connect with me:
