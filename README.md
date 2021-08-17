@@ -1,5 +1,7 @@
-![Data Science & Machine Learning Practitioner](https://lh3.googleusercontent.com/KGbBYChtYOfNeb-n99g9z8taJXmSJp7lM3equavG7mGLXwqo8XKUv3JBKQoauScsp54cS5sDAbrtBeYoxksCR0K70sFXs2nAo0vFJeyjvXvvKp4njIu57TRoS6VXmLQMjlY-2QtTX85zTQkJ_zADj-xuug_FuW1YbiM34ZZa7uv3VkK8xmkGlt1KDqpq8EMCIssJ-MA4vgnD3bxlukZSxMYcLqzgKliQztDsNDogPNebPi5G0a4ueY2reJoMr8HBiJvr2pM7wIKPNXDaVHTI7v9syYJnAfjYrCFLpNtL4hGEkPo1wMko48gAQ5uxgySSzYn50VMm_VoHZ_j3AVlCIOzdjv-FAStBjnxJFfLn4JpsBjNSVZQ71A1x4DFc4B9pWiBrBo_DwMxxT3IVQ1mp73xB46zmoZiThSRkrnVOR8P6kJdBoJYih-o6XldBXRV1tMZoNdEfJZaMwxiVfUGHlYPq0VTDT6k4tYxhD27er1dcQlXIPJeMfBA4f9dDF9qfRi6irCymrTLSSQMNrQiIz3veI4YkearHD4CuUD54Mw0BXJvE_mHDvgR5fYU1UfbKEcSwj9TEfwazIy0NTXo9Aa2xUzU1lvot9ZtTfXSLE--Vu-Z5671s5ig_XVOqLY374kyobpOkL-g-RVwqeauBjoJTD9fzsE1t2r_s-jzBlEDuT2ylok_mq086oLzfmYo5jyDdOtNjo80fgTBI7H4YDJ2I=w1271-h367-no?authuser=0)
-
+<p align='center'>
+  <img src="https://miro.medium.com/max/1400/1*-Lrr4iOC088p8xV0ZkRfKQ.png" width="800"
+</p><br>
+  
 ### Hey there 👋, Nice to e-meet you😄.<br>
 ### If you have stumbled to reach here, I am taking the opportunity to consider that you want to know more about me.**<br>
 
