@@ -7,15 +7,15 @@ My name is **Arpit Kumar😄** and I'm a **Data Science and Machine Learning Pra
 🔭 I’m currently learning and preparing for AWS Cloud Practitioner certificate exam along with NLP.<br>
 👯 I’m looking to collaborate with Data Scientists, Analysts.<br><br>
 **Languages & Libraries:** <br>
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen}" />
-<img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white}" />
-<img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white}" />
-<img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white}" />
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white}" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white}" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white}" />
-<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white}" />
-<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white}" />
+<img src="{https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen}" />
+<img src="{https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white}" />
+<img src="{https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white}" />
+<img src="{https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white}" />
+<img src="{https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white}" />
+<img src="{https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white}" />
+<img src="{https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white}" />
+<img src="{https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white}" />
+<img src="{https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white}" />
 <img src="{https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252}" />
 
 **IDE's**
