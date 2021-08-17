@@ -7,7 +7,7 @@ My name is **Arpit Kumar😄** and I'm a **Data Science and Machine Learning Pra
 🔭 I’m currently learning and preparing for AWS Cloud Practitioner certificate exam along with NLP.<br>
 👯 I’m looking to collaborate with Data Scientists, Analysts.<br><br>
 <p align='center'>
-  OS
+  OS<br>
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white}" />
 </p> <br>
 <p align='center'>
