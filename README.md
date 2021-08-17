@@ -9,10 +9,8 @@ My name is **Arpit Kumar😄** and I'm a **Data Science and Machine Learning Pra
 
 **IDE:**<br><br>
 <img src="{https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white}" />
-<img src="{https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252}" />
-<img src="{https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon}" />
 
-**Languages & Libraries:** <br><br>
+**Languages & Libraries:** <br>
 <img src="{https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen}" />
 <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white}" />
 <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white}" />
