@@ -8,6 +8,8 @@ My name is **Arpit Kumar😄** and I'm a **Data Science and Machine Learning Pra
 👯 I’m looking to collaborate with Data Scientists, Analysts.<br><br>
 **OS**<br>
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white}" /><br>
+**Workspace Spec**<br>
+<img src="https://img.shields.io/badge/Intel-Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white}" /><br>
 **Languages & Libraries:** <br>
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen}" />
 <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white}" />
@@ -23,8 +25,6 @@ My name is **Arpit Kumar😄** and I'm a **Data Science and Machine Learning Pra
 **Database**<br>
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white}" />
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white}" /><br><br>
-**Workspace Spec**<br>
-<img src="https://img.shields.io/badge/Intel-Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white}" /><br>
 **Frameworks**<br>
 <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white}" />
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white}" />
@@ -36,12 +36,10 @@ My name is **Arpit Kumar😄** and I'm a **Data Science and Machine Learning Pra
 <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white}" />
 <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white}" /><br>
 
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arpitkr95&show_icons=true&theme=buefy )   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arpitkr95&layout=compact&theme=buefy )](https://github.com/Arpitkr95/github-readme-stats)
 
 ### Connect with me:
 <p align='center'>
-  
   <a href="https://github.com/Arpitkr95" />
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>&nbsp;&nbsp;
@@ -57,5 +55,5 @@ My name is **Arpit Kumar😄** and I'm a **Data Science and Machine Learning Pra
   <a href="https://www.kaggle.com/arpikr">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />
   </a>&nbsp;&nbsp;
-
+<br>
 ![Profile views](https://gpvc.arturio.dev/Arpitkr95)  
