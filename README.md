@@ -57,7 +57,6 @@ My name is **Arpit Kumar😄** and I'm a **Data Science and Machine Learning Pra
 </p><br>
 
 <p align='center'>
-  Top Langs
   <a href="#"><img src="https://github-readmestats.vercel.app/api/top-langs/?username=Arpitkr95&layout=compact&theme=buefy")](https://github.com/Arpitkr95/github-readme-stats)
 </p><br>
 
