@@ -7,8 +7,7 @@ My name is **Arpit Kumar😄** and I'm a **Data Science and Machine Learning Pra
 🔭 I’m currently learning and preparing for AWS Cloud Practitioner certificate exam along with NLP.<br>
 👯 I’m looking to collaborate with Data Scientists, Analysts.<br><br>
 
-**IDE:**<br><br>
-<img src="{https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white}" />
+
 
 **Languages & Libraries:** <br>
 <img src="{https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen}" />
@@ -21,6 +20,9 @@ My name is **Arpit Kumar😄** and I'm a **Data Science and Machine Learning Pra
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white}" />
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white}" />
 
+
+**IDE:**<br><br>
+<img src="{https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white}" />
 
 * :chart: Tableau, Microsoft Excel
 * :computer: HTML, CSS 
