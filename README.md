@@ -19,9 +19,6 @@ My name is **Arpit Kumar😄** and I'm a **Data Science and Machine Learning Pra
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white}" />
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white}" />
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white}" />
-
-
-**IDE:**<br><br>
 <img src="{https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252}" />
 
 * :chart: Tableau, Microsoft Excel
