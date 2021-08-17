@@ -44,7 +44,7 @@ My name is **Arpit Kumar😄** and I'm a **Data Science and Machine Learning Pra
   <img src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white}" />
  </p>
 <p align='center'>
-  Office**<br>
+  Office<br>
  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white}" />
  <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white}" />
  <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white}" />
@@ -55,8 +55,9 @@ My name is **Arpit Kumar😄** and I'm a **Data Science and Machine Learning Pra
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Arpitkr95&show_icons=true&count_private=true&theme=buefy" width="350"></a>  
 </p><br>
+
 <p align='center'>
-[![Top Langs]
+  Top Langs
   <a href="#"><img src="https://github-readmestats.vercel.app/api/top-langs/?username=Arpitkr95&layout=compact&theme=buefy")](https://github.com/Arpitkr95/github-readme-stats)
 </p><br>
 
