@@ -7,7 +7,7 @@ My name is **Arpit Kumar😄** and I'm a **Data Science and Machine Learning Pra
 🔭 I’m currently learning and preparing for AWS Cloud Practitioner certificate exam along with NLP.<br>
 👯 I’m looking to collaborate with Data Scientists, Analysts.<br><br>
 **Skills:** 
-*  <img src="{https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen}" />Python
+<img src="{https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen}" />Python
 * :chart: Tableau, Microsoft Excel
 * :computer: HTML, CSS 
 * MySQL
