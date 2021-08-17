@@ -7,13 +7,18 @@ My name is **Arpit Kumar😄** and I'm a **Data Science and Machine Learning Pra
 🔭 I’m currently learning and preparing for AWS Cloud Practitioner certificate exam along with NLP.<br>
 👯 I’m looking to collaborate with Data Scientists, Analysts.<br><br>
 **Skills:** 
-* :snake: Python
+*  <img src="{https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen}" />Python
 * :chart: Tableau, Microsoft Excel
 * :computer: HTML, CSS 
 * MySQL
 
 ###  IDE's: 
-[<img src='https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white']
+<img src="{https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white}" />
+<img src="{BadgeURLHere}" />
+<img src="{BadgeURLHere}" />
+<img src="{BadgeURLHere}" />
+<img src="{BadgeURLHere}" />
+<img src="{BadgeURLHere}" />
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arpitkr95&show_icons=true&theme=buefy )              [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arpitkr95&layout=compact&theme=buefy )](https://github.com/Arpitkr95/github-readme-stats)
