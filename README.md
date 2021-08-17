@@ -52,7 +52,7 @@ My name is **Arpit Kumar😄** and I'm a **Data Science and Machine Learning Pra
  <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white}" /><br>
 </p><br>
 <p align='center'>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arpitkr95&show_icons=true&theme=buefy )   [![Top Langs](https://github-readme
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=alexandresanlim&show_icons=true&count_private=true&theme=buefy )   [![Top Langs](https://github-readme
   stats.vercel.app/api/top-langs/?username=Arpitkr95&layout=compact&theme=buefy )](https://github.com/Arpitkr95/github-readme-stats)
 </p><br>
 
