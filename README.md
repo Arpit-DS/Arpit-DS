@@ -53,10 +53,11 @@ My name is **Arpit Kumar😄** and I'm a **Data Science and Machine Learning Pra
 </p><br>
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=alexandresanlim&show_icons=true&count_private=true&theme=buefy" width="350"></a> )   
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Arpitkr95&show_icons=true&count_private=true&theme=buefy" width="350"></a>  
 </p><br>
-
+<p align='center'>
 [![Top Langs](https://github-readmestats.vercel.app/api/top-langs/?username=Arpitkr95&layout=compact&theme=buefy )](https://github.com/Arpitkr95/github-readme-stats)
+</p><br>
 
 ### Connect with me:
 <p align='center'>
