@@ -20,7 +20,10 @@ My name is **Arpit Kumar😄** and I'm a **Data Science and Machine Learning Pra
 
 **IDE's**
 
-<img src="https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon
+<img src="https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon}" />
+
+
+
 * :chart: Tableau, Microsoft Excel
 * :computer: HTML, CSS 
 * <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white}" />
