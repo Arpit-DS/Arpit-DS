@@ -4,10 +4,15 @@
   
 ### Hey there 👋, Nice to e-meet you😄.<br>
 ### If you have stumbled to reach here, I am taking the opportunity to consider that you want to know more about me.**<br>
+  
+<img align="right" alt="GIF" src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif" width="400px" />
 
+## 🧐 About
 My name is **Arpit Kumar😄** and I'm a **Data Science and Machine Learning Practitioner**. Having a Nick to learn each day, I am a motivated and team-oriented Data enthusiast. Some technologies I enjoy working with include **Python**, **MySQL** and have also worked on **Tableau** and **Microsoft Excel** creating dashboards to track KPI's and make business decisions.I enjoy working with data and believe how even the bare raw form of data can lead to actionable and business driven insights.<br><br>
-🔭 I’m currently learning and preparing for AWS Cloud Practitioner certificate exam along with NLP.<br>
-👯 I’m looking to collaborate with Data Scientists, Analysts.<br><br>
+- 🔭 I’m currently learning and preparing for AWS Cloud Practitioner certificate exam along with NLP.<br>
+- 👯 I’m looking to collaborate with Data Scientists, Analysts.
+- 🌱  I love to learn new things. 
+- 🎨  Fun fact: Good music boost my skill.<br><br>
 <p align='center'>
   OS<br>
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white}" />
