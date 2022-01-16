@@ -64,7 +64,7 @@ My name is **Arpit Kumar😄** and I'm a **Data Science and Machine Learning Pra
 </p><br>
 
 <p align='center'>
-  <a href="#"><img src="https://github-readmestats.vercel.app/api/top-langs/?username=Arpit-DS&layout=compact&theme=buefy")](https://github.com/Arpit-DS/github-readme-stats)
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arpit-DS&layout=compact")](https://github.com/Arpit-DS/github-readme-stats)
 </p><br>
     
 ### Connect with me:<br>
@@ -86,4 +86,4 @@ My name is **Arpit Kumar😄** and I'm a **Data Science and Machine Learning Pra
   </a>&nbsp;&nbsp;
 <br>
 
-![Profile views](https://gpvc.arturio.dev/Arpitkr95) 
+![Profile views](https://gpvc.arturio.dev/Arpit-DS) 
