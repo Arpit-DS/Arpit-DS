@@ -1,7 +1,5 @@
 <p align='center'>
-  <img src="https://miro.medium.com/max/1400/1*-Lrr4iOC088p8xV0ZkRfKQ.png" width="800"
-</p><br>
-  
+
 ### Hey there 👋, Nice to e-meet you😄.<br>
 ### If you have stumbled to reach here, I am taking the opportunity to consider that you want to know more about me.<br>
   
@@ -67,13 +65,14 @@ My name is **Arpit Kumar😄** and I'm a **Data Science and Machine Learning Pra
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arpit-DS&layout=compact")](https://github.com/Arpit-DS/github-readme-stats)
 </p><br>
-
-<a href="https://github.com/Arpit-DS/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/Arpit-DS/awesome-github-profile-readme" alt="Stars Badge"/></a>
-<a href="https://github.com/Arpit-DS/awesome-github-profile-readme/network/members"><img src="https://img.shields.io/github/forks/Arpit-DS/awesome-github-profile-readme" alt="Forks Badge"/></a>
-<a href="https://github.com/Arpit-DS/awesome-github-profile-readme/pulls"><img src="https://img.shields.io/github/issues-pr/Arpit-DS/awesome-github-profile-readme" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/Arpit-DS/awesome-github-profile-readme/issues"><img src="https://img.shields.io/github/issues/Arpit-DS/awesome-github-profile-readme" alt="Issues Badge"/></a>
-<a href="https://github.com/Arpit-DS/awesome-github-profile-readme/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Arpit-DS/awesome-github-profile-readme?color=2b9348"></a>
-<a href="https://github.com/Arpit-DS/awesome-github-profile-readme/blob/master/LICENSE"><img src="https://img.shields.io/github/license/Arpit-DS/awesome-github-profile-readme?color=2b9348" alt="License Badge"/></a>
+<p align='center'>
+  <a href="https://github.com/Arpit-DS/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/Arpit-DS/awesome-github-profile-readme" alt="Stars Badge"/></a>
+  <a href="https://github.com/Arpit-DS/awesome-github-profile-readme/network/members"><img src="https://img.shields.io/github/forks/Arpit-DS/awesome-github-profile-readme" alt="Forks Badge"/></a>
+  <a href="https://github.com/Arpit-DS/awesome-github-profile-readme/pulls"><img src="https://img.shields.io/github/issues-pr/Arpit-DS/awesome-github-profile-readme" alt="Pull Requests Badge"/></a>
+  <a href="https://github.com/Arpit-DS/awesome-github-profile-readme/issues"><img src="https://img.shields.io/github/issues/Arpit-DS/awesome-github-profile-readme" alt="Issues
+    Badge"/></a>
+  <a href="https://github.com/Arpit-DS/awesome-github-profile-readme/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Arpit-DS/awesome-github-profile-readme?color=2b9348"></a>
+  <a href="https://github.com/Arpit-DS/awesome-github-profile-readme/blob/master/LICENSE"><img src="https://img.shields.io/github/license/Arpit-DS/awesome-github-profile-readme?color=2b9348" alt="License Badge"/></a>
     
 ### Connect with me:<br>
 <p align='center'>
