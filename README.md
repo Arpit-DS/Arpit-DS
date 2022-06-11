@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif" width="400px" />
+<img align="right" alt="GIF" src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif" width="200px" />
 
 
 ### Hey there 👋, Nice to e-meet you😄.<br>
