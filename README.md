@@ -1,7 +1,6 @@
 <p align='center'>
 
 ### Hey there 👋, Nice to e-meet you😄.<br>
-### If you have stumbled to reach here, I am taking the opportunity to consider that you want to know more about me.<br>
   
 ## 🧐 About
 <img align="right" alt="GIF" src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif" width="400px" />
