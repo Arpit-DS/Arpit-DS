@@ -39,11 +39,18 @@ My name is **Arpit Kumar😄** and I'm a **Data Science and Machine Learning Pra
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white}" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white}" />
  </p>
+ <p align='center'>
+  Business intellegence Tool<br>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white}" />
+  <img src="https://img.shields.io/badge/Looker%20Studio-Google-blue?}" />
+  <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black}" />
+ </p>
 <p align='center'>
   Frameworks<br>
   <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white}" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white}" />
   <img src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white}" />
+  
  </p>
 <p align='center'>
   Office<br>
@@ -52,10 +59,6 @@ My name is **Arpit Kumar😄** and I'm a **Data Science and Machine Learning Pra
  <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white}" />
  <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white}" />
  <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white}" /><br>
-</p><br>
-
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Arpit-DS&show_icons=true&count_private=true&theme=buefy" width="350"></a>  
 </p><br>
 
     
