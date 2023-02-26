@@ -1,6 +1,6 @@
 ### Hey there 👋, Nice to e-meet you😄.<br>
   
-## 🧐 About
+## 📖 About
   
 My name is **Arpit Kumar😄** and I'm a **Data Science and Machine Learning Practitioner**. Having a Nick to learn each day, I am a motivated and team-oriented Data enthusiast. Some technologies I enjoy working with include **Python**, **MySQL** and have also worked on **Tableau**, **Google Data Studio**, **Google Sheets**, **Microsoft Excel** creating dashboards to track KPI's and make business decisions.I enjoy working with data and believe how even the bare raw form of data can lead to actionable and business driven insights.<br><br>
 - 🔭 I’m currently learning and preparing for AWS Cloud Practitioner certificate exam along with NLP.<br>
@@ -58,9 +58,6 @@ My name is **Arpit Kumar😄** and I'm a **Data Science and Machine Learning Pra
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Arpit-DS&show_icons=true&count_private=true&theme=buefy" width="350"></a>  
 </p><br>
 
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arpit-DS&layout=compact")](https://github.com/Arpit-DS/github-readme-stats)
-</p><br>
     
 ### Connect with me:<br>
 <p align='center'>
